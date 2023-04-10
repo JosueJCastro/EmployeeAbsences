@@ -1,2 +1,12 @@
 #include <iostream>
 usingnamespace std;
+void (){
+
+}
+
+int x1(){}
+
+
+
+double x2(){}
+
